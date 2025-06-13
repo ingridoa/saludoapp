@@ -1,4 +1,4 @@
-### Grupo N°10 
+### Grupo N°10 Jenkins y JAVA
 
 - Ingrid Oñate A
 - Victor Diaz
