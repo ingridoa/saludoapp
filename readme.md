@@ -37,4 +37,4 @@ Incluir un paso de análisis de código estático para verificar calidad, están
 Validar código con revisiones de pull request antes de ejecutar el pipeline completo.
 Separar los pipelines por ramas (main, dev, feature) para manejar flujos de trabajo Git más realistas.
 Implementar notificaciones por correo o Slack para reportar fallos.
-Agregar pruebas de performance o carga si es necesario para validar escalabilidad.
+Agregar pruebas de performance o carga si es necesario.
